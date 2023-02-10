@@ -1,1 +1,3 @@
 #!/bin/bash|necho "school" 
+#!/bin/bash
+echo "school"
